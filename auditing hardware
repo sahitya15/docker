@@ -1,0 +1,8 @@
+#!/bin/bash
+
+lsb_release -d #os version
+uname -r       #kernal version
+lscpu          #cpu info
+free           #ram info
+nload          #networking-bandwidth
+fdisk -l       #disk info
